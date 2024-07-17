@@ -16,6 +16,10 @@ GIT Commands :
 9. git checkout -b <branch-name> : to make a new branch in your local once you clone remote branch, you need to first make a new local branch and then start working its a good practice
 10. git switch <branch-name> : to switch between branches 
 11. git commit -m "commit msg" : to commit changes with a short msg
-12. 
+# when you want to push the things to remote repo,
+# first create a repo in GITHUB, 
+# copy the URL of that repo, 
+# switch to the branch you want to push to that repo and fire below commad
+12. git push https://github.com/averma07p19/python-learning.git
 
 Dont know how to push all the files and working directories to remote
