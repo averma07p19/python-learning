@@ -22,4 +22,4 @@ GIT Commands :
 # switch to the branch you want to push to that repo and fire below commad
 12. git push https://github.com/averma07p19/python-learning.git
 
-Dont know how to push all the files and working directories to remote
+These should be enough commands to work on GIT
