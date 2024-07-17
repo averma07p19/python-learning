@@ -15,4 +15,4 @@ GIT Commands :
 8. git branch : to check which branch you are on currently and making changes
 9. git checkout -b <branch-name> : to make a new branch in your local once you clone remote branch, you need to first make a new local branch and then start working its a good practice
 10. git switch <branch-name> : to switch between branches 
-11. 
+11. git commit -m "commit msg" : to commit changes with a short msg
