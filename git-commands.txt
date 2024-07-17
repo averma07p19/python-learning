@@ -1,0 +1,15 @@
+four different areas where your code resides :-
+1. local working directory (your play ground)
+2. staging area (its a checkpoint to add all the new changes/files etc using command - git add .)
+3. local repo (after adding your changes to stage, you will commit the changes to your local branch with a short msg and commmand - git commit)
+4. remote branch (once you commit and want to share your changes, you will push the changes to remote)
+
+GIT Commands :
+1. git version : to check version of git on your system
+2. git config --global --list : to check the current user and id
+3. git status : to check what are different changes you have made so far but not yet added or commited
+4. git add . : to add all the new changes in one go to you local working branch 
+5. git add <file_name> : to add a specific file to your local working branch 
+6. git status : to check again if all the required changes are added or not
+7. git commit : to commit all the changes to your local working branch with a msg
+8. git push : 
