@@ -12,4 +12,7 @@ GIT Commands :
 5. git add <file_name> : to add a specific file to your local working branch 
 6. git status : to check again if all the required changes are added or not
 7. git commit : to commit all the changes to your local working branch with a msg
-8. git push : 
+8. git branch : to check which branch you are on currently and making changes
+9. git checkout -b <branch-name> : to make a new branch in your local once you clone remote branch, you need to first make a new local branch and then start working its a good practice
+10. git switch <branch-name> : to switch between branches 
+11. 
