@@ -17,5 +17,4 @@ filename = "cards_rds_202404"
 
 # print(f"file_extention is : {file_extention}")
 
-# short_string = filename[3:13:4]
-# print(f"file_extention is : {short_string}")
+short_string = filename[3:]
