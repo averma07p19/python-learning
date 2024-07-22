@@ -29,3 +29,24 @@
 # b1 = [5,"pass",-10,"fail"]
 # c1 = a1 + b1
 # print(c1)
+
+#EX : seperate numeric and character elemets from a user given list
+a = [1, "a", 5,6,"ankur"]
+print(a, a[1], type(a[1]), type(a[2]))
+i=1
+int_l = []
+char_l = []
+while i <= len(a):
+    element = str(a[i-1]).isdigit()
+    # num_check = element.isdigit()
+    if element:
+        int_l.append(a[i-1])
+        i = i+1
+    else:
+        char_l.append(a[i-1])
+        i = i+1
+print(f"All numeric elemts are in int_1 : {int_l}")
+print(f"All numeric elemts are in char_l : {char_l}")
+
+
+
