@@ -17,3 +17,4 @@ my_set1 = {} #as it is an empty dict, so we will create an empty set by doing be
 print(my_set1, type(my_set1))
 my_set2 = set()
 print(my_set2, type(my_set2))
+
