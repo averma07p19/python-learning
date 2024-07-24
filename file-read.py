@@ -32,3 +32,6 @@ with open("datafile.txt") as f:
     # print(f.read,"a")
     # f.write(str)
     # print(f.read())
+
+
+    
