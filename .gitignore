@@ -1,0 +1,12 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore IDE settings
+.idea/
+.vscode/
